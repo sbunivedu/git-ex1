@@ -1,4 +1,5 @@
 # Git Exercise 1
+[source](http://jnthn.net/training/git/exercises.pdf)
 ## Task 1
 1. Clone this repository in your Cloud9 workspace.
 1. Create a README.txt file.
